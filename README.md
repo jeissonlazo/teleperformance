@@ -1,5 +1,5 @@
 # teleperformance
-prueba teleperformanssa 
+prueba teleperformans
 
 para ejecutar el servidor con los servicios se necesita una instancia de mongodb corriendo en el equipo y ejecutar los siguientes comandos en consola 
 "npm install"
